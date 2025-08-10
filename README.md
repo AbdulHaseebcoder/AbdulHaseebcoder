@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development and Graphic designing<br>👯 I’m looking to collaborate with Techno Kids Batch7<br>🤝 I’m looking for help with Sir Rizwan<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Html, CSS, Bootstrap, Python, JavaScript, React, C++<br>⚡ Fun fact Love Development and Designing
+🔭 I’m currently working on Web development and Graphic designing<br>👯 I’m looking to collaborate with GitHub<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Html, CSS, Bootstrap, Python, JavaScript, React, C++<br>⚡ Fun fact Love Development and Designing
 
 
 ## 🌐 Socials:
